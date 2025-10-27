@@ -2,11 +2,13 @@
 
 <div align="center">
 
-![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20watchOS-blue)
-![Swift](https://img.shields.io/badge/swift-5.9-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
-![iOS](https://img.shields.io/badge/iOS-17.0+-blue)
-![watchOS](https://img.shields.io/badge/watchOS-10.0+-blue)
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20watchOS-blue)](https://developer.apple.com/ios/)
+[![Swift](https://img.shields.io/badge/swift-5.9-orange)](https://swift.org)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/reservebtc/nightscout-apple-watch/blob/main/LICENSE)
+[![iOS](https://img.shields.io/badge/iOS-17.0+-blue)](https://www.apple.com/ios/)
+[![watchOS](https://img.shields.io/badge/watchOS-10.0+-blue)](https://www.apple.com/watchos/)
+[![GitHub Issues](https://img.shields.io/github/issues/reservebtc/nightscout-apple-watch)](https://github.com/reservebtc/nightscout-apple-watch/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/reservebtc/nightscout-apple-watch?style=social)](https://github.com/reservebtc/nightscout-apple-watch/stargazers)
 
 **A life-saving glucose monitoring companion for Type 1 diabetes management**
 
