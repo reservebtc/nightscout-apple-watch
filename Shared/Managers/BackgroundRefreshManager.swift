@@ -2,7 +2,7 @@
 //  BackgroundRefreshManager.swift
 //  SugarWatch
 //
-//  CRITICAL: Менеджер фоновых задач для контроля диабета 1 типа
+//  CRITICAL: 
 //  MUST ENSURE DATA UPDATES EVEN WHEN APP IS IN BACKGROUND!
 //  IMPORTANT: iOS target only! DO NOT add to Watch App target!
 //
